@@ -14,12 +14,14 @@ The project was developed collaboratively, covering full-cycle tasks such as pla
 ---
 
 📂 Project Structure
+
+```
 animal-world-game/
 ├── Dokumentacja_do_gry.pdf   # Full project documentation (in Polish)
 ├── animal.exe                # Executable file (for Windows users)
 ├── README.md                 # Project description
 ├── LICENSE                   # License information
-
+```
 ---
 
 📊 Game Features
