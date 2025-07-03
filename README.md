@@ -1,10 +1,10 @@
 # Animal World Game
 
-🎮 Educational animal matching game built using C++ and wxWidgets.
+## 🎮 Educational animal matching game built using C++ and wxWidgets.
 
  ---
  
-📝 Project Description  
+## 📝 Project Description  
 Animal World is an educational game designed to help players match animal names to their corresponding images.  
 The game was developed in C++ using the wxWidgets library, with all interface elements created manually.  
 It features a dynamic graphical user interface, randomization of animal images, and interactive gameplay elements.
@@ -13,7 +13,7 @@ The project was developed collaboratively, covering full-cycle tasks such as pla
 
 ---
 
-📂 Project Structure
+## 📂 Project Structure
 
 ```
 animal-world-game/
@@ -24,7 +24,7 @@ animal-world-game/
 ```
 ---
 
-📊 Game Features
+## 📊 Game Features
 - Interactive graphical user interface developed in wxWidgets
 - Random image reshuffling ("Randomize" button)
 - Matching animal names to images
@@ -36,7 +36,7 @@ animal-world-game/
 
 ---
 
-🧩 Technologies Used
+## 🧩 Technologies Used
 - C++
 - wxWidgets
 - Code::Blocks IDE
@@ -44,7 +44,7 @@ animal-world-game/
 
 ---
 
-🧠 Responsibilities and Contributions
+## 🧠 Responsibilities and Contributions
 - Game idea conception, asset selection, and naming: **Oleh Zemlianyi**
 - GUI design and code implementation: **Diana Kalyniak** (60%), **Oleh Zemlianyi** (40%)
 - Documentation writing: **Oleh Zemlianyi** (50%), **Diana Kalyniak** (50%)
@@ -52,6 +52,6 @@ animal-world-game/
 
 ---
 
-📄 License
+## 📄 License
 This project is licensed under the Apache License 2.0.
 See the [LICENSE](LICENSE) file for more information.
